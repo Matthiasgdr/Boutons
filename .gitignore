@@ -74,7 +74,10 @@ typings/
 
 # Optional npm cache directory
 .npm
-
+gulpfile.js
+package.json
+package-lock.json
+style.scss
 # Optional eslint cache
 .eslintcache
 
